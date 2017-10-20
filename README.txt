@@ -13,4 +13,4 @@ Bartosz Zylak=======
 >>>>>>> 603df657d53323cd28184bed4182c28021aea5b8
   
 
-Paulina Jarema 104277
+Paulina Jarema 104277.
