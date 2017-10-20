@@ -15,3 +15,13 @@ Aleksandra Korona 123
 =======
 >>>>>>> ca501f0bf17535827dee09fa3c7ebba33e331711
 >>>>>>> 603df657d53323cd28184bed4182c28021aea5b8
+
+
+Micha³ Rutkowski 105405 to ja
+
+<<<<<<< HEAD
+Miko³aj D¹browski 104267 to jaaaa
+
+=======
+Rafa³ Wojciechowski 105160 abc
+>>>>>>> 8480b40ddba5ac1e5dbc257215e589bf1cb14877
