@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # lab3
 Repozytorium na laboratorium 3 
 <<<<<<< HEAD
@@ -14,3 +15,7 @@ Bartosz Zylak=======
 
 Rafa³Borowiak 104263
 Rafa³ Borowiak
+=======
+# lab3
+Repozytorium na laboratorium 3 
+>>>>>>> ef7b6c09f5cf2764f26cc2ff22d529f3b2073e82
