@@ -14,3 +14,5 @@ Bartosz Zylak=======
   
 
 Paulina Jarema 104277.
+
+Bartosz Stępień :) 105200
