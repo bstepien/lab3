@@ -19,4 +19,4 @@ Aleksandra Korona
 
 Micha³ Rutkowski 105405 to ja
 
-Rafa³ Wojciechowski 105160 
+Rafa³ Wojciechowski 105160 abc
