@@ -22,3 +22,5 @@ Rafał Dworecki 104268
 Katarzyna Zając
 
 Katarzyna Mirek 
+
+Katarzyna Berg
