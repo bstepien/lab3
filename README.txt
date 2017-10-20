@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # lab3
 Repozytorium na laboratorium 3 
 <<<<<<< HEAD
@@ -14,8 +13,4 @@ Bartosz Zylak=======
 >>>>>>> 603df657d53323cd28184bed4182c28021aea5b8
   
 
-Paulina Jarema
-=======
-# lab3
-Repozytorium na laboratorium 3 
->>>>>>> ef7b6c09f5cf2764f26cc2ff22d529f3b2073e82
+Paulina Jarema 104277
